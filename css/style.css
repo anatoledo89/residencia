@@ -184,7 +184,7 @@ h2 {
     color: #004b67;
 }
 #header .inner .bottom {
-    background-color: #ececec;
+    background-color: #ffffff;
 }
 #header .inner .bottom .contacts_block {
     min-height: 50px;
@@ -232,7 +232,7 @@ h2 {
     margin: auto;
 }
 #top_menu {
-    background-color: #0eae9b;
+    background-color: #ffcccc;
     margin-top: -50px;
 }
 .navbar {
@@ -278,7 +278,7 @@ padding: 18px 16px;
 }
 #top_menu .nav-pills > .active {}
 #top_menu .nav-pills > .active > a, #top_menu .nav-pills > li > a:hover {
-    background:#000;
+    background:#b7707e;
     border-radius:0;
     color:#fff;
 }
@@ -2630,7 +2630,7 @@ form {
 .featured-listings .featured-item {
     margin-bottom: 45px;
     padding: 5px;
-    background-color: #f5f5f5;
+  /*  background-color: #f5f5f5;*/
 }
 .featured-listings #featured-slider .featured-item {
     margin-bottom: 0;
